@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Solid Wallpaper</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a pretty colour in hex</string>
+    <string name="button_send">Copy</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="button_setwallpaper">Set as Wallpaper</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
